@@ -172,3 +172,4 @@ cython_debug/
 #.idea/
 
 # Конец https://www.toptal.com/developers/gitignore/api/django
+venv
